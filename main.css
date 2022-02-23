@@ -4,3 +4,11 @@ div, section, aside, html, body, p{
     border:none;
 
 }
+
+.container{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
