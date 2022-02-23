@@ -10,9 +10,14 @@ div, section, aside, html, body, p{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: flex-start;
+    align-content: flex-start;
 }
 
 .page-header{
     height:4em;
     width:100%;
+}
+
+.main-content{
+
 }
