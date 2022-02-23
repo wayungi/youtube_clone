@@ -2,7 +2,6 @@ div, section, aside, html, body, p{
     margin:0;
     padding:0;
     border:1px solid black;
-
 }
 
 .container{
@@ -11,4 +10,9 @@ div, section, aside, html, body, p{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: flex-start;
+}
+
+.page-header{
+    height:4em;
+    width:100%;
 }
