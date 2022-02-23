@@ -4,7 +4,7 @@ div, section, aside, html, body, p{
     border:1px solid black;
 }
 
-.container{
+.container, .main-body{
     display:flex;
     flex-direction:row;
     flex-wrap: wrap;
