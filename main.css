@@ -18,6 +18,9 @@ div, section, aside, html, body, p{
     height:4em;
     width:100%;
     background-color: blue;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .main-body{
@@ -51,4 +54,20 @@ div, section, aside, html, body, p{
     /* outline:1px solid red; */
     height:100%;
     background: red;
+}
+
+/* header contnet styles */
+
+.nav-min{
+    outline:1px solid black;
+    display:inline-block;
+    width:2em;
+    height:2.5em;
+    
+}
+
+.nav-min > div{
+    width:100%;
+    border-bottom:1px solid #fff;
+    margin-top:.55em;
 }
