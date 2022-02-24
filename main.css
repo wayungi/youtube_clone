@@ -4,7 +4,7 @@ div, section, aside, html, body, p{
     border:1px solid black;
 }
 
-.container, .main-body{
+.container{
     display:flex;
     flex-direction:row;
     flex-wrap: wrap;
@@ -17,6 +17,19 @@ div, section, aside, html, body, p{
     height:4em;
     width:100%;
     background-color: blue;
+}
+
+.main-body{
+    border:1px solid red;
+    flex-grow:1;
+    flex-basis:100%;
+
+    /* parent flex porperties */
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-items: stretch;
+    align-content: flex-start;
 }
 
 .main-content{
