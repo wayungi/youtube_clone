@@ -71,3 +71,14 @@ div, section, aside, html, body, p{
     border-bottom:1px solid #fff;
     margin-top:.55em;
 }
+
+.logo-div {
+    width:15em;
+    /* height:2.5em; */
+    border:1px solid pink;
+
+}
+
+img.logo{
+    width:100%;
+}
