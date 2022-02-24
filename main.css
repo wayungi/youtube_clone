@@ -58,12 +58,12 @@ div, section, aside, html, body, p{
 
 /* header contnet styles */
 
+/* navigation button styles */
 .nav-min{
     outline:1px solid black;
     display:inline-block;
     width:2em;
     height:2.5em;
-    
 }
 
 .nav-min > div{
@@ -72,11 +72,12 @@ div, section, aside, html, body, p{
     margin-top:.55em;
 }
 
+
+/* youtube logo styles */
 .logo-div {
     width:15em;
     /* height:2.5em; */
     border:1px solid pink;
-
 }
 
 img.logo{
