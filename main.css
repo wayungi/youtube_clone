@@ -16,6 +16,7 @@ div, section, aside, html, body, p{
 .page-header{
     height:4em;
     width:100%;
+    background-color: blue;
 }
 
 .main-content{
