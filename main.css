@@ -44,3 +44,11 @@ div, section, aside, html, body, p{
 }
 
 
+.aside-content{
+    flex-basis: 30%;
+    flex-grow:1;
+    flex-shrink:1;
+    outline:1px solid red;
+    height:90%;
+    background: red;
+}
