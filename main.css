@@ -19,5 +19,8 @@ div, section, aside, html, body, p{
 }
 
 .main-content{
-
+    flex-basis:60%;
+    flex-grow:2;
+    flex-shrink:1; /*  default*/
 }
+
