@@ -136,3 +136,38 @@ img.mic, div.microphone{
     height:2.8em;
     border-radius:50%;
 }
+
+/* right  icons */
+
+div.right-icons{
+    /* border:1px solid black; */
+    width:15em;
+    padding:.1em .5em;
+}
+
+img.go-live,img.bell-icon, img.user-icon{
+    display:inline-block;
+    width:2em;
+    height:2em;
+    margin: .3em 1em;
+}
+
+img.user-icon{
+    border-radius:50%;
+}
+
+div.apps-panel{
+    display:inline-block;
+    width:2em;
+    height:2em;
+    outline:1px solid white;
+}
+
+div.app-rep{
+    /* display:inline-block;
+    border:1px solid white;
+    width:.2em;
+    height:.2em; */
+  
+   
+}
