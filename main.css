@@ -163,11 +163,17 @@ div.apps-panel{
     outline:1px solid white;
 }
 
-div.app-rep{
-    /* display:inline-block;
-    border:1px solid white;
-    width:.2em;
-    height:.2em; */
-  
-   
+/* style the youtube video player */
+
+div.player{
+    /* border:1px solid black; */
+    width:48em;
+    height:27em;
+    margin: 1.8em auto;
+    margin-left:4em;
+}
+
+.player iframe{
+    width:100%;
+    height:27em;
 }
