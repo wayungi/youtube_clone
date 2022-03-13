@@ -20,7 +20,7 @@ div, section, aside, html, body, p{
     background-color: blue;
     display:flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
 
 .main-body{
@@ -60,10 +60,12 @@ div, section, aside, html, body, p{
 
 /* navigation button styles */
 .nav-min{
-    outline:1px solid black;
+    /* outline:1px solid black; */
     display:inline-block;
     width:2em;
     height:2.5em;
+    margin: 0 1.5em;
+    cursor:pointer
 }
 
 .nav-min > div{
