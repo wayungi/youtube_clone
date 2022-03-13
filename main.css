@@ -11,7 +11,7 @@ div, section, aside, html, body, p{
     justify-content: space-between;
     align-items: flex-start;
     align-content: flex-start;
-    height:100vh;
+    /* height:100vh; */
     background-color: black;
 }
 
@@ -185,6 +185,20 @@ div.video-title{
     color:white;
 }
 
+p.views{
+    color:antiquewhite;
+    padding-left:4em;
+}
+
+
+div.description{
+    border-top:1px solid antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+    margin:1em 1.5em 2em 4em;
+    padding:.5em 1em;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /* thumbnail styling */
 
 .thumbnail, .thmb-title{
