@@ -79,9 +79,12 @@ div, section, aside, html, body, p{
 .logo-div {
     width:15em;
     /* height:2.5em; */
-    border:1px solid pink;
-}
+    /* border:1px solid pink; */
+    width:8em;
+    margin-right:8em;
+} 
 
 img.logo{
     width:100%;
 }
+
