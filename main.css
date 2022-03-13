@@ -88,3 +88,16 @@ img.logo{
     width:100%;
 }
 
+/* header search field */
+
+.search-field[type=text]{
+    width:40em;
+    height: 3em;
+    border:none;
+}
+
+.search-form{
+    /* border:1px solid black; */
+    padding:.1em;
+    background-color:grey;
+}
