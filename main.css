@@ -161,7 +161,16 @@ div.apps-panel{
     display:inline-block;
     width:2em;
     height:2em;
-    outline:1px solid white;
+    /* outline:1px solid white; */
+    cursor:pointer;
+}
+
+div.app-rep{
+    border:1px solid white;
+    width:5px;
+    height:5px;
+    margin:1px;
+    float:left;
 }
 
 /* style the youtube video player */
@@ -185,7 +194,7 @@ div.video-title{
     color:white;
 }
 
-p.views{
+p.main-views{
     color:antiquewhite;
     padding-left:4em;
 }
