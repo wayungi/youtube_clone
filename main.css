@@ -12,12 +12,13 @@ div, section, aside, html, body, p{
     align-items: flex-start;
     align-content: flex-start;
     height:100vh;
+    background-color: black;
 }
 
 .page-header{
     height:4em;
     width:100%;
-    background-color: blue;
+    /* background-color: blue; */
     display:flex;
     align-items: center;
     justify-content: flex-start;
@@ -43,7 +44,7 @@ div, section, aside, html, body, p{
     flex-shrink:1; /*  default*/
     /* outline:1px solid green; */
     height:100%;
-    background-color: green;
+    /* background-color: green; */
 }
 
 
@@ -53,7 +54,7 @@ div, section, aside, html, body, p{
     flex-shrink:1;
     /* outline:1px solid red; */
     height:100%;
-    background: red;
+    /* background: red; */
 }
 
 /* header contnet styles */
