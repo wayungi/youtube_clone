@@ -185,3 +185,33 @@ div.video-title{
 }
 
 /* thumbnail styling */
+
+.thumbnail, .thmb-title{
+    margin-top:1em;
+    display:inline-block;
+    width:13em;
+    /* border:1px solid black; */
+}
+
+img.thmb-img{
+    width:13em;
+}
+
+.thmb-title{
+    padding-left:1em;
+    box-sizing: border-box;
+
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+}
+
+h3.title{
+    color:white;
+    font-size:1em;
+    font-weight: bold;
+}
+
+.thmb-title > p{
+    line-height: 1.5em;
+}
