@@ -18,7 +18,7 @@ div, section, aside, html, body, p{
 .page-header{
     height:4em;
     width:100%;
-    /* background-color: blue; */
+    background-color:rgba(56,56,56, .3);
     display:flex;
     align-items: center;
     justify-content: flex-start;
