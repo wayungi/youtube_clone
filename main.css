@@ -122,6 +122,17 @@ img.mag-icon{
     /* margin-left:.1em; */
     padding-top:.3em;
     padding-left:.8em
-    
+}
 
+/* audio search field */
+
+div.microphone{
+    /* border:1px solid black; */
+    margin-left:1em;
+}
+
+img.mic, div.microphone{
+    width:3em;
+    height:2.8em;
+    border-radius:50%;
 }
