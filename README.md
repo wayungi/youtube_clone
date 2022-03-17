@@ -6,4 +6,3 @@ Javascript and its dynamic features will be ignored for now.
 
 By the end of the project, you will have learnt more CSS & HTML
 
-****---***
